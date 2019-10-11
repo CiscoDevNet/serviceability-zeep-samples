@@ -13,7 +13,8 @@ Sample scripts demonstrating use of the Python Zeep SOAP library with the CUCM S
 ## Getting started
 
 * Install Python 3.7
-  On Windows, choose the option to add to PATH environment variable
+
+  (On Windows, choose the option to add to PATH environment variable)
 
 * The project was built/tested using [Visual Studio Code](https://code.visualstudio.com/)
 
